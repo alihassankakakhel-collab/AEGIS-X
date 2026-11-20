@@ -1,0 +1,6 @@
+timestamp,source,severity,status,description
+2026-11-19 08:15:00,Authentication Gateway,Critical,Investigating,Repeated credential failures detected for a privileged account.
+2026-11-19 09:42:00,Endpoint Agent,High,Contained,Unsigned process launched from a temporary directory.
+2026-11-19 10:05:00,Network Sensor,Medium,Monitoring,Unusual outbound traffic pattern observed from an engineering workstation.
+2026-11-19 11:30:00,Email Security,Low,Resolved,Potential phishing message blocked before delivery.
+2026-11-19 12:18:00,Cloud Audit,High,Investigating,Storage policy changed outside the approved maintenance window.
