@@ -1,0 +1,14 @@
+
+streamlit
+google-genai
+python-dotenv
+pillow
+pandas
+folium
+streamlit-folium
+pydantic
+pypdf
+pymupdf
+pytesseract
+faster-whisper
+av<19
